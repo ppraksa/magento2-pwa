@@ -1,0 +1,11 @@
+.weather {
+    composes: lg_flex from global;
+    composes: lg_justify-center from global;
+    composes: lg_col-end-11 from global;
+    composes: lg_col-start-10 from global;
+}
+
+.weatherData {
+    composes: lg_flex from global;
+    composes: lg_flex-col from global;
+}

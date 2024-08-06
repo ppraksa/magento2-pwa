@@ -1,0 +1,3 @@
+.list {
+    composes: ml-2 from global;
+}
